@@ -1,0 +1,16 @@
+/* Seen.css */
+
+.bord {
+  border: 1px dotted lightgrey !important;
+  margin-right: 20px; /* Add margin to move the container to the right */
+}
+
+.container {
+  /* You can adjust styles for the container here if needed */
+}
+
+.pokemon-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
